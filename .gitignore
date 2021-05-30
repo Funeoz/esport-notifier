@@ -1,0 +1,11 @@
+env/
+.vscode/
+assets/
+build/
+__pycache__/
+main.py
+database/csgo/*.json
+database/valorant/*.json
+database/lol/*.json
+database/dota2/*.json
+database/r6siege/*.json
